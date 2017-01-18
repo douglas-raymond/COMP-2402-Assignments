@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=r\ w
+comment0.target=void\ doIt(java.io.BufferedReader,\ java.io.PrintWriter)
+comment0.text=\r\n\ Your\ code\ goes\ here\ -\ see\ Part0\ for\ an\ example\r\n\ @param\ r\ the\ reader\ to\ read\ from\r\n\ @param\ w\ the\ writer\ to\ write\ to\r\n\ @throws\ IOException\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ The\ driver.\ \ Open\ a\ BufferedReader\ and\ a\ PrintWriter,\ either\ from\ System.in\r\n\ and\ System.out\ or\ from\ filenames\ specified\ on\ the\ command\ line,\ then\ call\ doIt.\r\n\ @param\ args\r\n
+numComments=2
